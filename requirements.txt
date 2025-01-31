@@ -1,0 +1,7 @@
+flask
+flask-cors
+spiceypy
+numpy
+scipy
+peewee
+gunicorn
